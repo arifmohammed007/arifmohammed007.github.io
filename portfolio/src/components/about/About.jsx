@@ -35,8 +35,7 @@ const About = () => {
               <small>BCA Graduate</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus ratione consequuntur a rerum. Consequatur illum maxime perspiciatis sint dicta ducimus, cumque natus error nostrum inventore sequi praesentium provident beatae architecto?
-          </p>
+         
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>
       </div>
       </div>
